@@ -1,5 +1,7 @@
 # glogi
 
+[![Build Status](https://travis-ci.org/dooman87/glogi.svg?branch=master)](https://travis-ci.org/dooman87/glogi)
+
 > Golang Log Interface
 
 This is a small package that provides an interface for logger. The idea is to have logger 
