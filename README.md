@@ -1,0 +1,2 @@
+# glogi
+Golang Logger Interface
