@@ -36,6 +36,8 @@ type Logger interface {
 }
 ```
 
+You can also use SimpleLogger implementation from the package.
+
 ## Contribute
 
 PRs accepted.
