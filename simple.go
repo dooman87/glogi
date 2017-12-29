@@ -14,7 +14,7 @@ type SimpleLogger struct {
 	err *log.Logger
 }
 
-func New() *SimpleLogger {
+func NewSimpleLogger() *SimpleLogger {
 	return &SimpleLogger{
 		debug: log.New(os.Stdout, "", log.LstdFlags),
 		err: log.New(os.Stderr, "ERROR: ", log.LstdFlags),
